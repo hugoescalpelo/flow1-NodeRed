@@ -13,7 +13,6 @@ Para realizar este flow necesitas lo siguiente
 - [NodeJS](https://nodejs.org/es/)
     - [NPM](https://www.npmjs.com/)
     - [NodeRed](https://nodered.org/docs/getting-started/local)
-    - [Nodos Dashboard](https://flows.nodered.org/node/node-red-dashboard)
 
 ## Material de referencia
 
@@ -35,7 +34,7 @@ Para que este flow funcione, debes cumplir con los siguientes requisitos previos
 
 Para ejecutar este flow, es necesario lo siguiente
 1. Arrancar NodeRed con el comando `node-red`
-2. Importar el flow
+2. Importar el flow desde el repositorio
 3. Hacer clic en el boton Deploy
 
 ### Instrucciones de operación
